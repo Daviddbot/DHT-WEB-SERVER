@@ -10,7 +10,7 @@
 const char* ssid = "....";
 const char* password = "....";
 
-#define DHTPIN 23    // Digital pin D1 connected to the DHT sensor
+#define DHTPIN 23    // Digital pin D23 ESP32 connected to the DHT sensor
 
 // Uncomment the type of sensor in use:
 #define DHTTYPE    DHT11     // DHT 11
